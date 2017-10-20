@@ -1,6 +1,6 @@
 //
-//  MVCTempleteModelViewController.c
-//  MVCTemplete
+//  MVCTempleModelViewController.c
+//  MVCTemple
 //
 //  Created by Mewlan Musajan on 10/20/17.
 //  Copyright (c) 2017 Mewlan Musajan. All rights reserved.
@@ -16,26 +16,16 @@ int main(int argc, char const *argv[])
 
 void model()
 {
-	view();
+
 }
 
 void view()
 {
-	controller();
+
 }
 
-void outPutView()
+int controller()
 {
-	
-}
 
-void newLine()
-{
-	putchar('\n');
-}
-
-void controller()
-{
-	
 }
 
